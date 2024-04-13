@@ -1,0 +1,11 @@
+{
+  "dart.sdkPath": "C:\\Users\\FAVOUR\\Documents\\3.Resources\\FVM\\versions\\stable\\bin\\cache\\dart-sdk",
+  // Remove .fvm files from search
+  "search.exclude": {
+    "**/.fvm": true
+  },
+  // Remove from file watching
+  "files.watcherExclude": {
+    "**/.fvm": true
+  }
+}
