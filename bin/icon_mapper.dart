@@ -22,5 +22,5 @@ void main() async {
   });
 
   await outputWriter.close();
-  await output.writeAsString('}', mode: FileMode.append);
+  await output.writeAsString('};', mode: FileMode.append);
 }
